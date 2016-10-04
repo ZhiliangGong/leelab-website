@@ -118,10 +118,6 @@ line-height: 1.8;
     -ms-transform: translate(-50%,-50%)
 }
 
-.lee-center {
-    text-align: center!important
-}
-
 .lee-top,.lee-bottom {
     position: fixed;
     width: 100%;
