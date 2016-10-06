@@ -1,0 +1,5 @@
+Hostname: localhost:7500
+DB Name: leelab_prd
+User: leelab_usr
+Passwd: xhSy4JXXPxjEW9Fw4jxvks
+Connection method: stunnel

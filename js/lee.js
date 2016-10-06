@@ -34,8 +34,8 @@ $(document).ready(function(){
     });
 
     $('.pop').on('click', function() {
-		$('.imagepreview').attr('src', $(this).attr('src'));
-		$('#fm-img-modal').modal('show');
-	});
+      $('.imagepreview').attr('src', $(this).attr('src'));
+  		$('#fm-img-modal').modal('show');
+	  });
 
 });
