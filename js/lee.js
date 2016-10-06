@@ -21,8 +21,6 @@ $(function() {
 
 $(document).ready(function(){
 
-    $('#news').load("./html/news.html");
-
     $('.lee-portrait').matchHeight();
 
     //Stack menu when collapsed and show "research fields"
