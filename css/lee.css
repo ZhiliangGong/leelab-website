@@ -279,4 +279,7 @@ h1,h2,h3,h4,h5,h6,.lee-slim,.lee-wide{font-family:"Segoe UI",Arial,sans-serif}
   padding-top: 30px!important;
   padding-bottom: 30px!important;
   text-align: center!important;
+  -webkit-transition-property: background;
+  -webkit-transition-duration: 1s;
+  -webkit-transition-timing-function: ease;
 }
