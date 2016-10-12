@@ -17,11 +17,12 @@
   <script src="./js/angular.min.js"></script>
   <script src="app.js"></script>
   <script src="./js/lee.js"></script>
+  <script src="./js/jquery.matchHeight.js"></script>
   <script src="./js/google-analytics.js"></script>
 </head>
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" ng-app="app">
-<!-- Header -->
+
 <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
     <div class="container">
         <div class="navbar-header page-scroll">
@@ -58,17 +59,59 @@
 </div>
 
 <!--news section-->
-<section id="news" class="white-section">
-  <div ng-include="'./html/news.html'"></div>
+<section id="news" class="white-section" ng-controller="newsSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">NEWS</h4>
+  </div>
+  <div class="container pub-text">
+    <div class="list-group">
+      <a class="list-group-item" ng-repeat="piece in news">
+        {{piece.message}} <span class="badge">{{piece.date}}</span>
+      </a>
+    </div>
+  </div>
 </section>
 
 <!-- Current Members section -->
-<section id="people" class="white-section">
-  <div ng-include="'./html/current-members.html'"></div>
+<section id="people" class="white-section" ng-controller="peopleSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">CURRENT MEMBERS</h4>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div ng-repeat="person in people" id={{person.id}} class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div class="thumbnail lee-portrait" data-mh="portrait-group">
+          <img src={{person.image}} class="img-rounded" alt={{person.name}}>
+          <div class="caption">
+            <h4>{{person.name}} <a href={{person.link}} target="_blank"><i class={{person.icon}}></i></a></h4>
+            <p class="lee-text-gray">{{person.title}}</p>
+            <div class="list-group">
+              <a class="list-group-item">
+                <i class='fa fa-envelope-o'></i> {{person.email}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-building-o'></i> {{person.office}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-phone'></i> {{person.phone}}
+              </a>
+            </div>
+            <p>{{person.acholades}}</p>
+            <p>
+              <span ng-repeat="degree in person.degrees">{{degree}}<br /></span>
+            </p>
+            <p>
+              <span ng-repeat="affiliation in person.affiliations"><a href={{affiliation.link}} target="_blank">{{affiliation.name}}</a><br /></span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- Research section -->
-<section id="research" class="white-section">
+<section id="research" class="white-section" ng-controller="researchSection">
   <div ng-include="'./html/research.html'"></div>
 </section>
 

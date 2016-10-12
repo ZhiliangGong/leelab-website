@@ -1,0 +1,574 @@
+{"papers":
+ [
+     {
+	 "id": "Phys. Rev. A 34, 2 (1986)",
+	 "year": "1986",
+	 "title": "Coupled Lorenz Systems, Cusp Maps, and the Lowering of the Second Laser Threshold. N.M. Lawandy, D.V. Plant, and Kayee Lee, Physical Review A 34, 2 (1986) 1247-1250."
+     },
+     {
+	 "id": "Optics Comm. 61, 2 (1987) (1)",
+	 "year": "1987",
+	 "title": "A Signature for the Lorenz Instability in Quantum Optics. N.M. Lawandy, M. David Selker, and Kayee Lee, Optics Communications 61, 2 (1987) 134-136."
+     },
+     {
+	 "id": "Optics Comm. 61, 2 (1987) (2)",
+	 "year": "1987",
+	 "title": "Stability Analysis of Two Coupled Lasers and the Coupling-Induced Periodic -> Chaotic Transition. N.M. Lawandy and Kayee Lee, Optics Communications 61, 2 (1987) 137-141."
+     },
+     {
+	 "id": "Intl. J. of Thermophysics 9 (1988)",
+	 "year": "1988",
+	 "title": "Light Scattering from the Nonequilibrium Interface. Doo Soo Chung, Ka Yee Lee, and Eric Mazur, International Journal of Thermophysics 9 (1988) 729-737."
+     },
+     {
+	 "id": "",
+	 "year": "1989",
+	 "title": "Fourier Transform Heterodyne Spectroscopy of Liquid Interfaces. Ka Yee Lee, Doo Soo Chung, Sung Rno, and Eric Mazur, in Laser Materials and Laser Spectroscopy, eds. Z. Wang and Z. Zhang (World Scientific, Singapore, 1989) 316-319."
+     },
+     {
+	 "id": "",
+	 "year": "1989",
+	 "title": "Milli-Hertz Surface Spectroscopy. Eric Mazur, Doo Soo Chung, and Ka Yee Lee, in Laser Spectroscopy IX, eds. M. Feld, A. Mooradian, and J. Thomas (Academic Press, Cambridge, 1989) 216-219."
+     },
+     {
+	 "id": "Physics Letters A, 145 (1990)",
+	 "year": "1990",
+	 "title": "Spectral Asymmetry in the Light Scattered from a Nonequilibrium Liquid Interface. Doo Soo Chung, Ka Yee Lee, and Eric Mazur, Physics Letters A, 145 (1990) 348-352."
+     },
+     {
+	 "id": "",
+	 "year": "1992",
+	 "title": "Direct Optical Measurements of Capillary Wave Damping at Liquid-Vapor Interfaces. Ka Yee Lee, Tom Chou, and Eric Mazur, International Conferences on Quantum Electronics - Digest of Technical Papers (1992) 308."
+     },
+     {
+	 "id": "J. Phys. Chem. 97 (1993) (1)",
+	 "year": "1993",
+	 "title": "Quantized Symmetry of Liquid Monolayer Domains. Ka Yee C. Lee, and Harden M. McConnell, Journal of Physical Chemistry 97 (1993) 9532-9539."
+     },
+     {
+	 "id": "J. Phys. Chem. 97 (1993) (2)",
+	 "year": "1993",
+	 "title": "Direct Measurement of Capillary Wave Damping of Surfactant-Covered Liquid Interfaces. Ka Yee Lee, Tom Chou, Doo Soo Chung, and Eric Mazur, Journal of Physical Chemistry 97 (1993) 12876-12878."
+     },
+     {
+	 "id": "Science 263 (1994)",
+	 "year": "1994",
+	 "title": "Electric Field Induced Concentration Gradients in Lipid Monolayers. Ka Yee C. Lee, Jürgen F. Klingler, and Harden M. McConnell, Science 263 (1994) 655-658."
+     },
+     {
+	 "id": "Biophysical Journal 68 (1995)",
+	 "year": "1995",
+	 "title": "Effect of Electric Field Gradients on Lipid Monolayer Membranes. Ka Yee C. Lee, and Harden M. McConnell, Biophysical Journal 68 (1995) 1740-1751."
+     },
+     {
+	 "id": "Science 273 (1996)",
+	 "year": "1996",
+	 "title": "Phase and Morphology Changes Induced by SP-B Protein and Its Amino-Terminal Peptide in Lipid Monolayers. Michael M. Lipp, Ka Yee C. Lee, Joseph A. Zasadzinski, and Alan J. Waring, Science 273 (1996) 1196-1199."
+     },
+     {
+	 "id": "Applied Physics B 64 (1997)",
+	 "year": "1997",
+	 "title": "Fourier-transform Heterodyne Spectroscopy of Liquid and Solid Surfaces. Doo Soo Chung, Ka Yee Lee, and Eric Mazur, Applied Physics B 64 (1997) 1-13."
+     },
+     {
+	 "id": "",
+	 "year": "1997",
+	 "title": "Solving Medical Problems with Chemical Engineering. Michael M. Lipp, Ka Yee C. Lee, Joseph A. Zasadzinski, and Alan J. Waring, ChemTech, March (1997) 42-57."
+     },
+     {
+	 "id": "Biophysical Journal 72 (1997)",
+	 "year": "1997",
+	 "title": "Fluorescence, Polarized Fluorescence, and Brewster Angle Microscopy of Palmitic Acid and Lung Surfactant Protein B Monolayers. Michael M. Lipp, Ka Yee C. Lee, Joseph A. Zasadzinski, and Alan J. Waring, Biophysical Journal 72 (1997) 2783-2804."
+     },
+     {
+	 "id": "Rev. of Sci. Instruments 68 (1997)",
+	 "year": "1997",
+	 "title": "Design and Performance of an Integrated Fluorescence, Polarized Fluorescence, and Brewster Angle Microscope/Langmuir Trough Assembly for the Study of Lung Surfactant Monolayers. Michael M. Lipp, Ka Yee C. Lee, Joseph A. Zasadzinski, and Alan J. Waring, Review of Scientific Instruments 68 (1997) 2574-2582."
+     },
+     {
+	 "id": "Colloids and Surfaces A 128 (1997)",
+	 "year": "1997",
+	 "title": "Effects of Lung Surfactant Specific Protein SP-B and Model SP-B Peptide on Lipid Monolayers at the Air-Water Interface. Ka Yee C. Lee, Michael M. Lipp, Joseph A. Zasadzinski, and Alan J. Waring, Colloids and Surfaces A 128 (1997) 225-242."
+     },
+     {
+	 "id": "Progress in Colloid and Polymer Science 103 (1997)",
+	 "year": "1997",
+	 "title": "Protein and Lipid Interactions in Lung Surfactant Monolayers. Michael M. Lipp, Ka Yee C. Lee, Joseph A. Zasadzinski, and Alan J. Waring, Progress in Colloid and Polymer Science 103 (1997) 268-279."
+     },
+     {
+	 "id": "Langmuir 14 (1998)",
+	 "year": "1998",
+	 "title": "Apparatus for the Continuous Monitoring of Surface Morphology via Fluorescence Microscopy during Monolayer Transfer to Substrates. Ka Yee C. Lee, Michael M. Lipp, Dawn Y. Takamoto, Evgeny Ter-Ovanesyan, and Joseph A. Zasadzinski, Langmuir 14 (1998) 2567-2572."
+     },
+     {
+	 "id": "",
+	 "year": "1998",
+	 "title": "Direct Observation of Phase and Morphology Changes Induced by Lung Surfactant Protein SP-B in Lipid Monolayers via Fluorescence, Polarized Fluorescence, and Atomic Force Microscopies. Ka Yee C. Lee, Michael M. Lipp, Dawn Y. Takamoto, Joseph A. Zasadzinski, and Alan J. Waring, Proceedings of the SPIE - Laser Techniques for Condensed Phase and Biological Systems 3273 (1998) 115-133."
+     },
+     {
+	 "id": "Phys. Rev. Let. 81 (1998)",
+	 "year": "1998",
+	 "title": "Coexistence of Buckled and Flat Monolayers. Michael M. Lipp, Ka Yee C. Lee, Joseph A. Zasadzinski, and Alan J. Waring, Physical Review Letters 81 (1998) 1650-1653."
+     },
+     {
+	 "id": "J. Am. Chem. Soc. 121 (1999)",
+	 "year": "1999",
+	 "title": "Packing Stress Relaxation in Polymer-Lipid Monolayers at the Air-Water Interface: An X-ray Grazing Incidence Diffraction and Reflectivity Study. Tonya L. Kuhl, Jaroslaw Majewski, Paul B. Howes, Kristian Kjaer, Anja von Nahmen, Ka Yee C. Lee, Ben Ocko, Jacob N. Israelachvili, Greg S. Smith, Journal of the American Chemical Society 121 (1999) 7682-7688."
+     },
+     {
+	 "id": "J. Peptide Research 55 (2000)",
+	 "year": "2000",
+	 "title": "Conformational Mapping of the N-terminal Segment of Surfactant Protein B in Lipid Using 13C-enhanced Fourier  Transform Infrared Spectroscopy. Larry M. Gordon, Ka Yee C. Lee, Michael M. Lipp, Joseph A. Zasadzinski, Frans J. Walther, Mark A. Sherman, and Alan J. Waring, Journal of Peptide Research 55 (2000) 330-347."
+     },
+     {
+	 "id": "Materials Research Society Symposium Proceedings 590 (2000)",
+	 "year": "2000",
+	 "title": "The Incorporation of Lung Surfactant Specific Protein SP-B into Lipid Monolayers at the Air-Fluid Interface: A Grazing Incidence X-ray Diffraction Study. Ka Yee C. Lee, Jaroslaw Majewski, Tonya Kuhl, Paul B. Howes, Kristian Kjaer, Michael M. Lipp, Alan J. Waring, Joseph A. Zasadzinski, and Greg S. Smith, Materials Research Society Symposium Proceedings: Applications of Synchrotron Radiation Techniques to Materials Science V, 590 (2000) 177-182."
+     },
+     {
+	 "id": "Europhysics Letters 52, 2 (2000)",
+	 "year": "2000",
+	 "title": "Unstable Topography of Biphasic Surfactant Monolayers. Haim Diamant, Thomas A. Witten, Ajaykumar Gopal, and Ka Yee C. Lee, Europhysics Letters 52, 2 (2000) 171-177."
+     },
+     {
+	 "id": "J. Phys. Chem. B 105, 4 (2001)",
+	 "year": "2001",
+	 "title": "Shape Evolution of Lipid Bilayer Patches Adsorbed on Mica: An Atomic Force Microscopy Study. Adrian S. Muresan, and Ka Yee C. Lee, Journal of Physical Chemistry B 105, 4 (2001) 852-855."
+     },
+     {
+	 "id": "Biophysical Journal 80 (2001)",
+	 "year": "2001",
+	 "title": "Effects of Lung Surfactant Proteins SP-B and SP-C and Palmitic Acid on Monolayer Stability. Junqi Ding, Dawn Y. Takamoto, Anja von Nahmen, Michael M. Lipp, Ka Yee C. Lee, Alan J. Waring, and Joseph A. Zasadzinski, Biophysical Journal 80 (2001) 2262-2272."
+     },
+     {
+	 "id": "Phys. Rev. E 63 (2001)",
+	 "year": "2001",
+	 "title": "Topography and Instability of Monolayers Near Domain Boundaries. Haim Diamant, Thomas A. Witten, Canay Ege, Ajaykumar Gopal and Ka Yee C. Lee, Physical Review E 63 (2001) 061602."
+     },
+     {
+	 "id": "Biophysical Journal 81 (2001) (1)",
+	 "year": "2001",
+	 "title": "Interaction of Lung Surfactant Proteins with Anionic Phospholipids. Dawn Y. Takamoto, Michael M. Lipp, Anja von Nahmen, Ka Yee C. Lee, A.J. Waring, and Joseph A. Zasadzinski, Biophysical Journal 81 (2001) 153-169."
+     },
+     {
+	 "id": "Biophysical Journal 81 (2001) (2)",
+	 "year": "2001",
+	 "title": "Synchrotron X-ray Study of Lung Surfactant Specific Protein SP-B in Lipid Monolayers. Ka Yee C. Lee, Jaroslaw Majewski, Tonya Kuhl, Paul B. Howes, Kristian Kjaer, Michael M. Lipp, Alan J. Waring, Joseph A. Zasadzinski, and Greg S. Smith, Biophysical Journal 81 (2001) 572-585."
+     },
+     {
+	 "id": "J. Am. Chem. Soc. 123 (2001)",
+	 "year": "2001",
+	 "title": "Effect of Temperature and Composition on the Formation of Nanoscale Compartments in Phospholipid Membranes. Adrian S. Muresan, Haim Diamant, and Ka Yee C. Lee, Journal of the American Chemical Society 123 (2001) 6951-6952."
+     },
+     {
+	 "id": "J. Phys. Chem. B 105 (2001)",
+	 "year": "2001",
+	 "title": "Morphology and Collapse Transitions in Binary Phospholipid Monolayers. Ajaykumar Gopal, and Ka Yee C. Lee, Journal of Physical Chemistry B 105 (2001) 10348-10354."
+     },
+     {
+	 "id": "J. Chem. Phys. 116 (2002)",
+	 "year": "2002",
+	 "title": "Influence of Palmitic Acid and Hexadecanol on the Phase Transition Temperature and Molecular Packing of Dipalmitoylphosphatidylcholine Monolayers at the Air-Water Interface. Ka Yee C. Lee, Ajaykumar Gopal, Anja von Nahmen, Joseph A. Zasadzinski, Jaroslaw Majewski, Greg S. Smith, Paul B. Howes, and Kristian Kjaer, Journal of Chemical Physics 116 (2002) 774-783."
+     },
+     {
+	 "id": "Biophysical Journal 82 (2002)",
+	 "year": "2002",
+	 "title": "Direct Observation of Poloxamer 188 Insertion into Lipid Monolayer. Stacey A. Maskarinec, Jürgen Hannig, Raphael C. Lee, and Ka Yee C. Lee, Biophysical Journal 82 (2002) 1453-1459."
+     },
+     {
+	 "id": "Biochemistry 41, 30 (2002)",
+	 "year": "2002",
+	 "title": "NMR Structure of Lung Surfactant Peptide SP-B11-25. Josh Kurutz and Ka Yee C. Lee, Biochemistry 41, 30 (2002) 9627-9636. Society 124, 41 (2002) 12238-12243."
+     },
+     {
+	 "id": "J. Am. Chem. Soc. 124, 41 (2002)",
+	 "year": "2002",
+	 "title": "A Novel Layer-by-Layer Approach to Immobilization of Polymers and Nanoclusters. Eugene W. L. Chan, Dong-Chan Lee, Man-Kit Ng, Guohui Wu, Ka Yee C. Lee, and Luping Yu, Journal of the American Chemical Society 124, 41 (2002) 12238-12243."
+     },
+     {
+	 "id": "Langmuir 19 (2003) (1)",
+	 "year": "2003",
+	 "title": "A Sealed Miniature Trough for Fluorescence Studies of Langmuir Monolayers. Yufang Hu, Ka Yee C. Lee, and Jacob Israelachvili, Langmuir 19 (2003) 100-1004."
+     },
+     {
+	 "id": "Langmuir 19 (2003) (2)",
+	 "year": "2003",
+	 "title": "Comparative Study of Poloxamer Insertion into Lipid Monolayers. Stacey Maskarinec, and Ka Yee C. Lee, Langmuir 19 (2003) 1809-1815."
+     },
+     {
+	 "id": "PNAS 100, 11 (2003)",
+	 "year": "2003",
+	 "title": "Interaction of Antimicrobial Peptide Protegrin with Biomembranes. David Gidalevitz, Adrian S. Muresan, Alan J. Waring, Robert I. Lehrer, and Ka Yee C. Lee, Proceedings of the National Academy of Science 100, 11 (2003) 6302-6305."
+     },
+     {
+	 "id": "Chemistry and Biology 10 (2003)",
+	 "year": "2003",
+	 "title": "Helical Peptoid Mimics of Lung Surfactant Protein C. Cindy W. Wu, Ka Yee C. Lee, and Annelise E. Barron, Chemistry and Biology 10 (2003) 1057-1063."
+     },
+     {
+	 "id": "Gastroenterology 126 (2004)",
+	 "year": "2004",
+	 "title": "High-molecular-weight Polyethylene Glycol Prevent Lethal Sepsis due to Intestinal Pseudomonas Aeruginosa Licheng Wu, Olga Zaborina, Alex Zaborin, Eugene Chang, Mark Musch, Christopher Holbrook, James Shapiro, Jerold Turner, Guohui Wu, Ka Yee C. Lee, John Alverdy, Gastroenterology 126 (2004) 488-498."
+     },
+     {
+	 "id": "Biophysical Journal 87 (2004)",
+	 "year": "2004",
+	 "title": "Insertion of Alzheimer's Ab40 Peptide into Lipid Monolayers. Canay Ege and Ka Yee C. Lee, Biophysical Journal 87 (2004) 1732-1740."
+     },
+     {
+	 "id": "Phys. Rev. Let. 93 (2004)",
+	 "year": "2004",
+	 "title": "Lipid Corralling and Poloxamer Squeeze-out in Membranes. Guohui Wu, Jaroslaw Majewski, Canay Ege, Kristian Kjaer, Markus Weygand, and Ka Yee C. Lee, Physical Review Letters 93 (2004) 02810."
+     },
+     {
+	 "id": "Protein Science 13 (2004)",
+	 "year": "2004",
+	 "title": "Urea Modulation of b-Amyloid Fibril Growth: Experimental Studies and Kinetic Models. Jin Ryoun Kim, Adrian Muresan, Ka Yee C. Lee, and Regina M. Murphy, Protein Science 13 (2004) 2888-2898."
+     },
+     {
+	 "id": "Langmuir 20 (2004)",
+	 "year": "2004",
+	 "title": "Polymer Cushions Functionalized with Lipid Molecules. Dong-Chan Lee, Bong-Jun Chang, Luping Yu, Shelli L. Frey, Ka Yee C. Lee, Sirisha Patchipulusu, and Connie Hall, Langmuir 20 (2004) 11297-11300."
+     },
+     {
+	 "id": "ChemPhysChem 6, 2 (2005)",
+	 "year": "2005",
+	 "title": "Templating Effect of Lipid Membranes on Alzheimer's Amyloid Beta Peptides. Canay Ege, Jaroslaw Majewski, Guohui Wu, Kristian Kjaer, and Ka Yee C. Lee, ChemPhysChem 6, 2 (2005) 226-229."
+     },
+     {
+	 "id": "",
+	 "year": "2005",
+	 "title": "*SP-B Peptides: Synthesis, Structure, and Surface Activities. Josh W. Kurutz, Haim Diamant, Chutima Jiarpinitnun, Alan J. Waring and Ka Yee C. Lee, In  Lung Biology in Health and Disease Series Vol 201: Lung Surfactant Function and Disorder, Editor K. Nag, Marcel Dekker (2005)."
+     },
+     {
+	 "id": "",
+	 "year": "2005",
+	 "title": "*Sealing of Damaged Cell Membranes by Poloxamers. Ka Yee C. Lee, in McGraw-Hill Yearbook of Science and Technology, 10th Edition (2005) 41-44."
+     },
+     {
+	 "id": "MRS Bulletin 30, 6 (2005)",
+	 "year": "2005",
+	 "title": "*The Materials Science of Protein Aggregation. Daniel L. Cox, H. Lashuel, K.Y.C. Lee, R.R.P. Singh, Materials Research Society Bulletin, 30, 6 (2005) 452-457."
+     },
+     {
+	 "id": "Biophysical Journal 89 (2005)",
+	 "year": "2005",
+	 "title": "Interaction between Lipid Monolayers and Poloxamer 188: An X-ray Reflectivity and Diffraction Study. Guohui Wu, Jaroslaw Majewski, Canay Ege, Kristian Kjaer, Markus Weygand, and Ka Yee C. Lee, Biophysical Journal 89 (2005) 3159-3173."
+     },
+     {
+	 "id": "Phys. Rev. E 72 (2005)",
+	 "year": "2005",
+	 "title": "Surface charge relaxation and the pearling instability of charged surfactant tubes. Toan T. Nguyen, Ajaykumar Gopal, Ka Yee C. Lee, and Thomas A. Witten, Physical Review E 72 (2005) 051930."
+     },
+     {
+	 "id": "Ann. N.Y. Acad. Sci. 1066 (2005)",
+	 "year": "2005",
+	 "title": "*Membrane Sealing by Polymers. Stacey A. Maskarinec, Guohui Wu, and Ka Yee C. Lee, in Cell Injury: Mechanism, Responses and Repair; Editors: R.C. Lee and K. Hamann, Annals of New York Academy of Sciences, Ann. N.Y. Acad. Sci. 1066 (2005) 310-320."
+     },
+     {
+	 "id": "Biophysical Journal 90 (2006)",
+	 "year": "2006",
+	 "title": "Lipid Discrimination by Antimicrobial Peptide LL-37: Insight into Mechanism of Action. Frances Neville, Marjolaine Cahuzac, Oleg Konovalov, Yuji Ishitsuka, Ka Yee C. Lee, Ivan Kuzmenko, Girish M. Kale, and David Gidalevitz, Biophysical Journal 90 (2006) 1275-1287."
+     },
+     {
+	 "id": "J. Phys. Chem. B 110 (2006)",
+	 "year": "2006",
+	 "title": "Microscopic Folds and Macroscopic Jerks in Lipid Monolayers. Ajaykumar Gopal, Vladimir A. Belyi, Haim Diamant, Thomas A. Witten, and Ka Yee C. Lee, J. Phys. Chem. B, 110 (2006) 21: 10220-10223."
+     },
+     {
+	 "id": "Biophysical Journal 91 (2006)",
+	 "year": "2006",
+	 "title": "Evidence for Ordering in Cholesterol and Phospholipid Mixtures. Canay Ege, Jaroslaw Majewski, Maria Ratajczak, Kristian Kjaer, and Ka Yee C. Lee, Biophysical Journal 91 (2006) 1: L01-03."
+     },
+     {
+	 "id": "MRS Bulletin 31, 7 (2006)",
+	 "year": "2006",
+	 "title": "*Triblock Copolymer as an Effective Membrane-Sealing Material. Guohui Wu, Shelli Frey, Stacey A. Maskarinec, and Ka Yee C. Lee, MRS Bulletin on Materials Science of Supported Lipid Membranes, Volume 31, No. 7 (2006) 532-535."
+     },
+     {
+	 "id": "J. Phys. Chem. B 110, 44 (2006)",
+	 "year": "2006",
+	 "title": "Headgroup Percolation and the Collapse of Condensed Langmuir Monolayers. Ajaykumar Gopal and Ka Yee C. Lee, Journal of Physical Chemistry B 110:44 (2006) 22079-22087."
+     },
+     {
+	 "id": "J. Am. Chem. Soc. 128, 40 (2006)",
+	 "year": "2006",
+	 "title": "Amphiphilic Poly(phenyleneethynylene)s Can Mimic Antimicrobial Peptide Membrane Disordering Effect by Membrane Insertion. Yuji Ishitsuka, Lachelle Arnt, Jaroslaw Majewski, Kristian Kjaer, Maria Ratajczak, Shelli L. Frey, Gregory N. Tew and Ka Yee C. Lee, Journal of the American Chemical Society, 128:40 (2006) 13123-13129."
+     },
+     {
+	 "id": "Biochimica et Biophysica Acta 1758 (2006)",
+	 "year": "2006",
+	 "title": "*Insertion Selectivity of Antimicrobial Peptide Protegrin-1 into Lipid Monolayers: Effect of Head Group Electrostatics and Tail Group Packing. Yuji Ishitsuka, Alan J. Waring, Robert I. Lehrer and Ka Yee C. Lee, Biochimica et Biophysica Acta, 1758 (2006) 1450-1460."
+     },
+     {
+	 "id": "J. Phys. Chem. B 110, 42 (2006)",
+	 "year": "2006",
+	 "title": "Mechanism of Membrane Disruption by Antimicrobial Peptide Protegrin-1. Kin Lok Lam, Yuji Ishitsuka, Yishan Cheng, Karen Chien, Alan J. Waring, Robert I. Lehrer, and Ka Yee C. Lee, Journal of Physical Chemistry B, 110:42 (2006) 21282-21286."
+     },
+     {
+	 "id": "Langmuir 23 (2007)",
+	 "year": "2007",
+	 "title": "Temperature Dependence of Poloxamer Insertion Into and Squeeze-out From Lipid Monolayers. Shelli L. Frey and Ka Yee C. Lee, Langmuir, 23 (2007) 5: 2631-2637."
+     },
+     {
+	 "id": "Biochemistry 46 (2007)",
+	 "year": "2007",
+	 "title": "Ganglioside GM1 Mediated Amyloid-beta Fibrillogenesis and Membrane Disruption. Eva Y. Chi, Shelli L. Frey and Ka Yee C. Lee, Biochemistry, 46 (2007) 7: 1913-1924."
+     },
+     {
+	 "id": "Biophysical Journal 93 (2007)",
+	 "year": "2007",
+	 "title": "Cholesterol Displacement from Membrane Phospholipids by Hexadecanol. Maria K. Ratajczak, Y.T. Chris Ko, Yvonne Lange, Theodore L. Steck and Ka Yee C. Lee, Biophysical Journal, 93 (2007) 2038-2047."
+     },
+     {
+	 "id": "J. Chem. Phys. 127 (2007)",
+	 "year": "2007",
+	 "title": "Effects of Block Copolymer's Hydrophilic:Hydrophobic Ratio on Its Association with Lipid Membranes: Experiments and Simulations. Shelli L. Frey, Dongsheng Zhang, Marcello A. Carignano, Igal Szleifer and Ka Yee C. Lee, Journal of Chemical Physics, 127 (2007) 114904."
+     },
+     {
+	 "id": "Rev. of Sci. Instruments 78 (2007)",
+	 "year": "2007",
+	 "title": "Monitoring X-Ray Beam Damage of Lipid Films by an Integrated Brewster Angle Microscopy/X-ray Diffractometer. Stephen M. Danauskas, Maria K. Ratajczak, Yuji Ishitsuka, Ka Yee C. Lee, Jeff Gebhardt, David Schultz, Mati Meron and Binhua Lin, Review of Scientific Instruments 78 (2007) 103705."
+     },
+     {
+	 "id": "",
+	 "year": "2008",
+	 "title": "Competitive Adsorption of Lung Surfactant and Serum Proteins at the Air-Liquid Interface: A Grazing Incidence X-Ray Diffraction Study. P.C. Stenger, G.H. Wu, E.Y. Chi, S.L. Frey, J. Majewski, K. Kjaer, K.Y.C. Lee, and J.A. Zasadzinski, in Materials in Transition-Insights from Synchrotron and Neutron Sources, edited by C. Thompson, H.A. Durr, M.F. Toney, D.Y. Noh (Materials Research Society Symposium Proceedings: Volume 1027E, Warrendale, PA, 2008), 1027-D05-09."
+     },
+     {
+	 "id": "Biophysical Journal 94 (2008)",
+	 "year": "2008",
+	 "title": "Condensing and Fluidizing Effects of Ganglioside GM1 on Phospholipid Films. Shelli L. Frey, Eva Y. Chi, Cristobal Arratia, Jaroslaw Majewski, Kristian Kjaer and Ka Yee C. Lee, Biophysical Journal 94 (2008) 3047-3064."
+     },
+     {
+	 "id": "Proteins 72 (2008)",
+	 "year": "2008",
+	 "title": "Lipid Membrane Templates the Ordering and Induces the Fibrillogenesis of Alzheimer's Disease Amyloid-&beta; peptide. Eva Y. Chi, Canay Ege, Amy Winans, Jaroslaw Majewski, Kristian Kjaer, and Ka Yee C. Lee, Proteins 72 (2008) 1-24."
+     },
+     {
+	 "id": "Annu. Rev. Phys. Chem. 59 (2008)",
+	 "year": "2008",
+	 "title": "*Collapse Mechanisms of Langmuir Monolayers. Ka Yee C. Lee, Annual Review of Physical Chemistry 59 (2008) 771-791."
+     },
+     {
+	 "id": "Science 320 (2008)",
+	 "year": "2008",
+	 "title": "Stress and Fold Localization in Thin Elastic Membranes. Luka Pocivavsek, Robert Dellsy, Andy Kern, Sebastian Johnson, Binhua Lin, Ka Yee C. Lee and Enrique Cerda, Science 320 (2008) 912-916."
+     },
+     {
+	 "id": "Soft Matter 4 (2008) (1)",
+	 "year": "2008",
+	 "title": "Protegrin Interaction with Lipid Monolayers: Grazing Incidence X-ray Diffraction and X-ray Reflectivity Study. Frances Neville, Yuji Ishitsuka, Chris S. Hodges, Oleg Konovalov, Alan J. Waring, Robert Lehrer, Ka Yee C. Lee, and David Gidalevitz, Soft Matter 4 (2008) 1665-1674."
+     },
+     {
+	 "id": "Soft Matter 4 (2008) (2)",
+	 "year": "2008",
+	 "title": "Lateral Stress Relaxation and Collapse in Lipid Monolayers. Luka Pocivavsek, Shelli L. Frey, Kapil Krishnan, Kseniya Gavrilov, Piotr Ruchala, Alan J. Waring, Frans J. Walther, Michael Dennin, and Ka Yee C. Lee, Soft Matter 4 (2008) 2019-2029."
+     },
+     {
+	 "id": "J. Appl. Cryst. 41, 6 (2008)",
+	 "year": "2008",
+	 "title": "Stochastic Fitting of Specular X-Ray Reflectivity Data using StochFit. Stephen M. Danauskas, Dongxu Li, Mati Meron, Binhua Lin, and Ka Yee C. Lee, Journal of Applied Crystallography 41, 6 (2008) 1187-1193."
+     },
+     {
+	 "id": "Langmuir 25, 4 (2009)",
+	 "year": "2009",
+	 "title": "Effects of Poloxamers on Phospholipid Monolayer Morphology: An Atomic Force Microscopy Study. Guohui Wu, and Ka Yee C. Lee, Langmuir 25, 4 (2009) 2133-2139."
+     },
+     {
+	 "id": "Soft Matter 5 (2009) (1)",
+	 "year": "2009",
+	 "title": "Effects of Bilayer Phases on Phospholipid-Poloxamer Interactions. Guohui Wu, Htet A. Khant, Wah Chiu, and Ka Yee C. Lee, Soft Matter 5 (2009) 1496-1503."
+     },
+     {
+	 "id": "Soft Matter 5 (2009) (2)",
+	 "year": "2009",
+	 "title": "*Geometric Tools for Complex Interfaces: From Lung Surfactant to the Mussel Byssus. Luka Pocivavsek, Brian Leahy, Niels Holten-Andersen, Binhua Lin, Ka Yee C. Lee and Enrique Cerda, Soft Matter 5 (2009) 1963."
+     },
+     {
+	 "id": "Biophysical Journal 97 (2009)",
+	 "year": "2009",
+	 "title": "X-Ray Diffraction and Reflectivity Study of the Competitive Adsorption of Lung Surfactant and Albumin. P.C. Stenger, G. Wu, C.E. Miller, E.Y. Chi, S.L. Frey, K.Y.C. Lee, J. Majewski, K. Kjaer, and J.A. Zasadzinski,, Biophys. J. 97 (2009) 777-786."
+     },
+     {
+	 "id": "Phys. Rev. Let. 103 (2009)",
+	 "year": "2009",
+	 "title": "Ordered Nanoclusters in Lipid/Cholesterol Membranes. Maria K Ratajczak, Shelli L. Frey, Eva Y. Chi, Kathleen D. Cao, Laura M. Luther, Jaroslaw Majewski, Kristian Kjaer, and Ka Yee C. Lee, Physical Review Letters 103 (2009) 028103."
+     },
+     {
+	 "id": "J. Phys. Chem. B 113 (2009)",
+	 "year": "2009",
+	 "title": "Interaction of Poloxamers with Liposomes: An Isothermal Titration Calorimetry Study. Guohui Wu and Ka Yee C. Lee, Journal of Physical Chemistry B 113 (2009) 15522-15531."
+     },
+     {
+	 "id": "Am J Physiol Gastrointest Liver Physiol 297 (2009)",
+	 "year": "2009",
+	 "title": "Oral PEG 15-20 Protects the Intestine against Radiation: Role of Lipid Rafts. Vesta Valuckaite, Olga Zaborina, Jason Long, Martin Hauer-Jensen, Junru Wang, Christopher Holbrook, Alexander Zaborin, Kenneth Drabik, Mukta Katdare, Helena Mauceri, Ralph Weichselbaum, Millicent Firestone, Ka Yee Lee, Eugene Chang, Jeffery Matthews, and John Alverdy, American Journal of Physiology - Gastrointestinal & Liver Physiology 297 (2009) 1041-1052."
+     },
+     {
+	 "id": "Am J Physiol Lung Cell Mol Physiol 298 (2010)",
+	 "year": "2010",
+	 "title": "Functional Importance of the N-terminal Insertion Sequence of Lung Surfactant Protein B. S.L. Frey, L. Pocivavsek, A.J. Waring, F.J. Walther, K.Y.C. Lee, American Journal of Physiology - Lung Cellular and Molecular Physiology 298 (2010) 335-347."
+     },
+     {
+	 "id": "J. Chem. Phys. 132 (2010)",
+	 "year": "2010",
+	 "title": "Wilhelmy Plate Artifacts in Elastic Monolayers. Thomas Witten, Jin Wang, Luka Pocivavsek, and Ka Yee C. Lee, Journal of Chemical Physics 132 (2010) 046102-1."
+     },
+     {
+	 "id": "Biophysical Journal 98 (2010)",
+	 "year": "2010",
+	 "title": "Amyloid-beta Fibrillogenesis Seeded by Interface-indcuded Peptide Misfolding and Self-assembly. Eva Y. Chi, Shelli L. Frey, Amy Winans, Kin Lok H. Lam, Kristian Kjaer, Jaroslaw Majewski, and Ka Yee C. Lee, Biophysical Journal 98 (2010) 2299-2308."
+     },
+     {
+	 "id": "Phys. Rev. Let. 105 (2010)",
+	 "year": "2010",
+	 "title": "Geometric Stability and Elastic Response of a Supported Nanoparticle Film. Brian Leahy, Luka Pocivavsek, Mati Meron, Kin Lok Lam, Desiree Salas, P. James Viccaro, Ka Yee Lee, and Binhua Lin, Physical Review Letters 105 (2010) 058301-4."
+     },
+     {
+	 "id": "Langmuir 26, 15 (2010)",
+	 "year": "2010",
+	 "title": "Effects of PEO-PPO-PEO Triblock Copolymers on Phospholipid Membrane Integrity under Osmotic Stress. Jia-Yu Wang, Jaemin Chin, Jeremy Marks, and Ka Yee C. Lee, Langmuir 26, 15 (2010) 12953-12961."
+     },
+     {
+	 "id": "PNAS 188, 7 (2011)",
+	 "year": "2011",
+	 "title": "pH-induced Metal-ligand Cross-links Inspired by Mussel Yield Self-healing Polymer Networks with Near-covalent Elastic Moduli. Niels Holten-Andersen, Matthew J. Harrington, Henrik Birkedal, Bruce P. Lee, Phillip B. Messersmith, Ka Yee C. Lee, and J. Herbert Waite, Proceedings of the National Academy of Science 188, 7 (2011) 2651-2655."
+     },
+     {
+	 "id": "Langmuir 27, 5 (2011)",
+	 "year": "2011",
+	 "title": "A Stripe-to-Droplet Transition Driven by Conformational Transition in a Binary Lipid-Lipopolymer Mixture at the Air-Water Interface. Rita J. El-Khouri, Shelli Frey, Alan W. Szmodis, Emily Hall, Karlina J. Kauffman, Timothy E. Patten, Ka Yee C. Lee, Atul N. Parikh, Langmuir 27, 5 (2011) 1900-1906."
+     },
+     {
+	 "id": "Biophysical Journal 101 (2011)",
+	 "year": "2011",
+	 "title": "Glycerol-induced Membrane Stiffening: The Role of Viscous Fluid Adlayers. Luka Pocivavsek, Kseniya Gavrilov, Kathleen Cao, Eva Chi, Dongxu Li, Binhua Lin Mati Meron, Jaroslaw Majewski, and Ka Yee C. Lee, Biophysical Journal 101 (2011) 118-127."
+     },
+     {
+	 "id": "Biochimica et Biophysica Acta 1818, 2 (2011)",
+	 "year": "2011",
+	 "title": "Mechanism of Structural Transformations Induced by Antimicrobial Peptides in Lipid Membranes. Kin Lok H. Lam, Hao Wang, Ting Ann Siaw, Matthew R. Chapman, Alan J. Waring, James T. Kindt, and Ka Yee C. Lee, Biochimica et Biophysica Acta 1818(2) (2011) 194-204."
+     },
+     {
+	 "id": "Biophysical Journal 101, 12 (2011)",
+	 "year": "2011",
+	 "title": "KL4 Improves Reversibility of Model Lung Surfactant Monolayers by Modifying Collapse at Multiple Length Scales. Niels Holten-Andersen, J. Michael Henderson, Frans J. Walter, Alan J. Waring, Piotr Ruchala, Robert H. Notter, and Ka Yee C. Lee, Biophysical Journal 101, 12 (2011) 2957-2965."
+     },
+     {
+	 "id": "Journal of Magnetic Resonance 215 (2012)",
+	 "year": "2012",
+	 "title": "An Ultrasensitive Tool Exploiting Hydration Dynamics to Decipher Weak Lipid Membrane-Polymer Interactions. Chi-Yuan Cheng, Jia-Yu Wang, Ravinath Kausik, Ka Yee C. Lee*, and Songi Han*, Journal of Magnetic Resonance 215 (2012) 115-119."
+     },
+     {
+	 "id": "Soft Matter 8 (2012)",
+	 "year": "2012",
+	 "title": "Insertion Mechanism of Cell-penetrating Peptides into Supported Phospholipid Membranes Revealed By X-ray and Neutron Reflection. D. Choi, J. H. Moon, H. Kim, B. J. Sung, M. W. Kim, G. Y. Tae, S. K. Satija, B. Akgun, C. -J.Yu, D. R. Lee, J. M. Henderson, J. W. Kwong, K. L. Lam, K. Y. C. Lee, and K. Shin, Soft Matter 8 (2012) 8294-8297."
+     },
+     {
+	 "id": "Biomacromolecules 13, 9 (2012) (1)",
+	 "year": "2012",
+	 "title": "Nature of Interactions between PEO-PPO-PEO Triblock Copolymers and Lipid Membranes: (I) Effect of Polymer Hydrophobicity on Its Ability to Protect Liposomes from Peroxidation. Jia-yu Wang, Jeremy Marks, Ka Yee C. Lee, Biomacromolecules 13, 9 (2012) 2616-2623."
+     },
+     {
+	 "id": "Biomacromolecules 13, 9 (2012) (2)",
+	 "year": "2012",
+	 "title": "Nature of Interactions between PEO-PPO-PEO Triblock Copolymers and Lipid Membranes: (II) Role of Hydration Dynamics Revealed by Dynamic Nuclear Polarization. Chi-Yuan Cheng, Jia-Yu Wang, Ravinath Kausik, Ka Yee C. Lee*, and Songi Han*, Biomacromolecules 13, 9 (2012) 2624-2633."
+     },
+     {
+	 "id": "Adv. Funct. Mater. 23, 9 (2013)",
+	 "year": "2013",
+	 "title": "pH-Based Regulation of Hydrogel Mechanical Properties Through Mussel-Inspired Chemistry and Processing. Devin G. Barrett, Dominic E. Fullenkamp, Lihong He, Niels Holten-Andersen, Ka Yee C. Lee, Phillip B. Messersmith, Advanced Functional Materials, 23, 9 (2013) 1111-1119."
+     },
+     {
+	 "id": "PNAS 110, 3 (2013)",
+	 "year": "2013",
+	 "title": "Incommensurate Phases of a Supported Nanoparticle Film Subjected to Uniaxial Compression. Yenchao Chua, Brian D. Leahy, Ka Yee C. Lee, Susan N. Coppersmith, Binhua Lin, Proceedings of the National Academy of Science, 110, 3 (2013) 824-831."
+     },
+     {
+	 "id": "Inflammatory Bowel Disease 19, 4 (2013)",
+	 "year": "2013",
+	 "title": "Three Dimensional Geometry of the Heinike-Mikulicz Strictureplasty. Luka Pocivavsek, Efi Efrati, Ka Yee C. Lee, Roger D. Hurst, Inflammatory Bowel Disease, 19, 4 (2013) 704-711."
+     },
+     {
+	 "id": "Chemistry and Physics of Lipids 175-176 (2013)",
+	 "year": "2013",
+	 "title": "Thermodynamic and Kinetic Investigations of the Release of Oxidized Phospholipids from Lipid Membranes and Its Effect on Vascular Integrity. Charles Heffern, Luka Pocivavsek, Anna A. Birukova, Nurgul Moldobaeva, Valery N. Bochkov, Ka Yee.C. Lee, and Konstantin G. Birukov, Chemistry and Physics of Lipids 175-176 (2013) 9-19."
+     },
+     {
+	 "id": "Biophysical Journal 105, 6 (2013)",
+	 "year": "2013",
+	 "title": "Number of Sialic Acid Residues in Ganglioside Headgroup Affects Interactions with Neighboring Lipids. Shelli L. Frey, and Ka Yee C. Lee, Biophysical Journal 105, 6 (2013) 1421-1431."
+     },
+     {
+	 "id": "Current Opinion in Solid State & Materials Science 17 (2013)",
+	 "year": "2013",
+	 "title": "*Promising Antimicrobial Agents Designed from Natural Peptide Templates. J. Michael Henderson and Ka Yee C. Lee, Current Opinion in Solid State & Materials Science 17 (2013) 175-192."
+     },
+     {
+	 "id": "J. Mater. Chem. B 2 (2014)",
+	 "year": "2014",
+	 "title": "Metal-coordination: using one of nature's tricks to control soft material mechanics. Niels Holten-Andersen, Aditya Jaishankar, Matthew J. Harrington, Dominic E. Fullenkamp, Genevieve DiMarco, Lihong He, Gareth H. McKinley, Phillip B. Messersmith, and Ka Yee C. Lee, Journal of Materials Chemistry B 2 (2014) 2467-2472."
+     },
+     {
+	 "id": "PNAS 111, 15 (2014)",
+	 "year": "2014",
+	 "title": "Molecular mechanism for differential recognition of membrane phosphatidylserine by the immune regulatory receptor Tim4. Gregory T. Tietjen, Zhiliang Gong, Chiu-Hao Chen, Ernesto Vargas, James E. Crooks, Kathleen D. Cao, J. Michael Henderson, Charles T. R. Heffern, Mati Meron, Binhua Lin, Benoît Roux, Mark L. Schlossman, Theodore L. Steck, Ka Yee C. Lee*, and Erin J. Adams*, Proceedings of the National Academy of Sciences USA 111, 15 (2014) E1463-E1472."
+     },
+     {
+	 "id": "Langmuir 30, 29 (2014)",
+	 "year": "2014",
+	 "title": "Influence of Molecular Coherence on Surface Viscosity. Siyoung Q. Choi, Kyuhan Kim, Colin M. Fellows, Kathleen D. Cao, Binhua Lin, Ka Yee C. Lee, Todd M. Squires, and Joseph A. Zasadzinski, Langmuir 30, 29 (2014) 8829-8838."
+     },
+     {
+	 "id": "Phys. Rev. E 91 (2015)",
+	 "year": "2015",
+	 "title": "Confined Disclinations: Exterior vs. Material Constraints in Developable Thin Elastic Sheets. Efi Efrati, Luka Pocivavsek, Ruben Meza, Ka Yee C. Lee,  and Thomas A. Witten, Physical Review E 91 (2015) 022404."
+     },
+     {
+	 "id": "Soft Matter 11 (2015)",
+	 "year": "2015",
+	 "title": "Celebrating Soft Matter's 10th anniversary: screening of the calcium-induced spontaneous curvature of lipid membranes. Mijo Simunovic, Ka Yee C. Lee, Patricia Bassereau, Soft Matter 11 (2015) 5030."
+     },
+     {
+	 "id": "Langmuir 31 (2015) (1)",
+	 "year": "2015",
+	 "title": "Collapse of Particle-Laden Interfaces under Compression: Buckling vs Particle Expulsion. Sepideh Razavi, Kathleen D. Cao, Binhua Lin, Ka Yee C. Lee, Raymond S. Tu, and Ilona Kretzschmar, Langmuir 31 (2015) 7764-7775."
+     },
+     {
+	 "id": "Langmuir 31 (2015) (2)",
+	 "year": "2015",
+	 "title": "Synergistic Interactions of Sugars/Polyols and Monovalent Salts with Phospholipids Depend upon Sugar/Polyol Complexity and Anion Identity. Ginevra A. Clark, J. Michael Henderson, Charles Heffern, BÃ¼lent AkgÃ¼n, Jaroslaw Majewski, and Ka Yee C. Lee, Langmuir, 31 (2015) 12688-12698."
+     },
+     {
+	 "id": "J. Am. Chem. Soc. 137, 49 (2015)",
+	 "year": "2015",
+	 "title": "Mechanical Stability of Polystyrene and Janus Particle Monolayers at the Air/Water Interface. Jessica Lenis, Sepideh Razavi, Kathleen D. Cao, Binhua Lin, Ka Yee C. Lee, Raymond S. Tu, and Ilona Kretzschmar, Journal of the American Chemical Society 137 (49) (2015) 15370-15373."
+     },
+     {
+	 "id": "",
+	 "year": "",
+	 "title": "Morphology and Structural Organization of Gold Nanoparticle-Phospholipid films at the Air/Water Interface. Siheng You, Charles Heffern, Yeling Dai, Mati Meron, J. Michael Henderson, Wei Bu, Wenyi Xie, Ka Yee C. Lee, Binhua Lin, submitted."
+     },
+     {
+	 "id": "",
+	 "year": "",
+	 "title": "Tailoring Biomimetic Phosphorylcholine-Containing Block Copolymers as Membrane-targeting Cellular Rescue Agents. Jia-Yu Wang, Wei Chen, Michihiro Nagao, Phullara Shelat, Brenton A. G. Hammer, Gregory Tietjen, Kathleen D. Cao, J. Michael Henderson, Lilin He, Binhua Lin, Bulent Akgun, Mati Meron, Shuo Qian, Jeremy Marks, Todd Emrick, and Ka Yee C. Lee, submitted."
+     },
+     {
+	 "id": "",
+	 "year": "",
+	 "title": "Lipid membrane mediates long-range interactions between linear aggregates of membrane-curving proteins. Mijo Simunovic, Anđela Šarić, J. Michael Henderson, Ka Yee C. Lee, Gregory Voth, submitted."
+     },
+     {
+	 "id": "",
+	 "year": "",
+	 "title": "'Raft' Effects on Membrane Fluidity. Amit K. Sachan, Siyoung Q. Choi, and K.H. Kim, Q. Tang, Luke Hwang, Ka Yee C. Lee, Todd M. Squires and Joseph A. Zasadzinski, submitted."
+     },
+     {
+	 "id": "",
+	 "year": "",
+	 "title": "Total Reflection X-ray Fluorescence at the Air/Liquid Interface: Experimental Setup for Synchrotron Light Source and Quantitative Data Analysis Using XeRay. Zhiliang Gong, Daniel Kerr, Hyeondo Hwang, J. Michael Henderson, Tiffany Suwatthee, Benjamin Slaw, Kathleen Cao, Binhua Lin, Wei Bu, and Ka Yee C. Lee, submitted."
+     }
+ ]
+}

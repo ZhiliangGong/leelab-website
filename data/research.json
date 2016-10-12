@@ -1,0 +1,114 @@
+{"research":
+ [
+   {
+     "id": "as",
+     "title": "Alpha Synuclein",
+     "heading": "The Physiological Action of &alpha;-Synuclein",
+     "people": [
+       {"name": "Peter Chung", "link": "#peter"},
+       {"name": "Luke Hwang", "link": "#luke"},
+       {"name": "Alessandra Leong", "link": "#alessandra"}
+     ],
+     "body": [
+       "Dysfunction of &alpha;-Synuclein, a neuronal protein found in the presynaptic terminals of axons, has been unequivocally linked to Parkinson's disease and other 'synucleinopathies'. Lewy bodies, hallmark inclusions found in neurons of patients with Parkinson's, were discovered to be made up primarily of aggregated &alpha;-Synuclein. (See left 1).",
+       "However, the physiological role of &alpha;-Synuclein remain unclear due, in part, to its intrinsically disordered nature. While most proteins spontaneously fold into stable secondary structures, intrinsically disordered proteins do not exhibit the structural motifs found in globular proteins, but instead, behave more like a polymer. (See left 2).",
+       "What we do know from in vivo measurements is that &alpha;-Synuclein  is thought to associate with lipid membrane surfaces. Electron microscopy of presynaptic terminals (below) with immuno-labeled &alpha;-Synuclein (black dots) have been found to associated with synaptic vesicles, lipid membrane compartments of neurotransmitters.",
+       "Furthermore, in vitro and molecular dynamics simulations have shown that α-Synuclein binds to lipid membranes, where part of the protein forms a alpha-helical structure (below). However, finding evidence of this type of binding in biology has been difficult.",
+       "The Lee laboratory is seeking to reconstitute lipid membranes in the physiological limit to better understand the binding behavior and function of α-Synuclein. In teasing out its physiological role, it might be possible to elucidate the pathophysiological pathway to Parkinson's, as well."
+     ],
+     "reference": [
+       "Clayton, D. F. & George, J. M. Journal of Neuroscience Research 58, 120–129 (1999).",
+       "Fusco, G. et al. Nat Commun 5, (2014).",
+       "Goedert, M. Nat Rev Neurosci 2, 492–501 (2001)."
+     ],
+     "figure": [
+       {"link": "./img/science/lewy-body.png","caption": "Lewy bodies"},
+       {"link": "./img/science/as-membrane.png","caption": "Alpha-synuclein membrane interaction model."}
+     ]
+   },
+   {
+     "id": "tim",
+     "title": "Lipids in Immunity",
+     "heading": "Mechanism of recognition of phosphatidylserine by peripheral immunological proteins",
+     "people": [
+       {"name": "Zhiliang Gong", "link": "#zhiliang"},
+       {"name": "Daniel Kerr", "link": "#dan"},
+       {"name": "Tiffany Suwatthee", "link": "#tiffany"}
+     ],
+     "body": [
+       "Phosphatidylserine (PS) is the most abundant negatively charged lipid in cell membranes, constituting 10-20% of cell lipids. Normally it resides in the inner leaflet of the cell membrane. Exposure of PS to the outer leaflet is an important signal that plays vital roles in numerous cellular functions and disease states, including blood coagulation, cell fusion, apoptosis, autoimmune responses, chronic viral infection, etc. Correspondingly an array of more than 30 PS recognizing proteins has been identified. How this seemingly generic signaling of PS exposure could be involved in such diverse physiological processes is unclear. We take particular interest in how PS interacts with a group of peripheral immunological proteins involved distinct functions in the innate and adapted immune systems. Specifically we have focused on four proteins, T cell/transmembrane immunoglobulin mucin protein 1, 3, 4, and MFG-E8. Using a combination of fluorescence spectroscopy, x-ray surface scattering, x-ray fluorescence, and molecular dynamics, we seek to understand how exactly these proteins recognize PS differently, and how such difference could lead to distinct functional outcomes.",
+       "A tryptophan fluorescence assay was developed to measure the binding of TIM proteins to lipid membranes. All of the TIMs have a Tryptophan at the surface which burrows into the membrane when binding occurs. Tryptophan is fluorescent and its emission changes when it's in water or in a hydrophobic environment like the tails of lipids in a membrane.",
+       "Interfacial x-ray scattering can determine the membrane bound orientation of each of the Tim proteins to identify the molecular mechanisms that drive their unique recognition properties.",
+       "MD simulations generate protein structures used to fit x-ray scattering data and determine the orientation of the proteins with the membrane. TIM1 and TIM3 required MD to get correct orientations. TIM1's crystal structure is not in a bound conformation while TIM3's NMR structure lacks a number of residues. MD allowed us to resolve these hurdles.",
+       "Recently we've been developing tools to measure Calcium fluorescence on membranes using x-ray fluorescence. Early results indicate the TIM proteins bring calcium to the membrane interface when bound. X-rays are transmitted at various angles to construct a profile of how calcium  is distributed at the surface of the lipid membrane. Higher fluorescent yield means there's more calcium, upon addition of TIMs we see the yield increase. We believe this accumulation of calcium is important in the chemistry of the TIMs interaction with lipid membranes though right now we don't fully understand the mechanism behind it. Using this technique with the brilliant x-ray at the Advanced Photon Source we've been able to qunatify calcium accumulation on the surface."
+     ],
+     "reference": [],
+     "figure": [
+       {"link": "./img/science/tim.png", "caption": "TIM3 MD equilibrated structure bound to lipid membrane."},
+       {"link": "./img/science/tim-1.png", "caption": "Schematic of x-ray reflectivity experiments."},
+       {"link": "./img/science/txrf.jpg", "caption": "Total reflection x-ray fluorescence for detecting trace amounts of calcium in nano grams."}
+     ]
+   },
+   {
+     "id": "ls",
+     "title": "Lung Surfactant",
+     "heading": "Lung Surfactant System and Respiratory Distress Syndrome (RDS)",
+     "people": [
+       {"name": "Benjamin Slaw", "link": "#ben"}
+     ],
+     "body": [
+       "A wide variety of diseases are results of deficient or abnormal protein-lipid interactions. The elucidation of the interactions between specific proteins and lipids, and the ability to examine and manipulate biomembranes that mimic real life systems hold the key to a better understanding of these diseases. Our research interests lie in the interdisciplinary area which can be termed as \"interfacial medicine\". Using two-dimensional monolayers, either at the air-water interface or transferred onto solid substrates, and supported bilayers as model systems, along with various microscopy and scattering techniques, we plan to carry out fundamental studies on the interactions between lipids and proteins to gain insights into the biophysical aspects of these diseases. Two diseases of particular interest are listed below.",
+       "A complex mixture of lipids and proteins, known as lung surfactant, forms monolayers at the alveolar air-water interface. The surfactant lowers the surface tension to near zero, and is responsible for reducing the work of breathing. A lack of surfactant, either due to immaturity in premature infants or disease or trauma in adults, can lead to RDS. In spite of the serious morbidity and mortality of the disease, a firm understanding of the role of surfactant in both normal and diseased lungs is still lacking. My group is interested in developing a detailed structure-function relationship for the various components of lung surfactant. In particular, we will examine the phase behavior of various mixtures of lung surfactant components, as well as the interactions between lung surfactant specific proteins and the surrounding lipid matrix. We will explore the effect of lung surfactant proteins on monolayer surfactant. The knowledge gained from this should lead to an understanding of the morphological consequences of monolayer phase separation and collapse, which is necessary for the continued development of positive interventions for patients suffering from RDS."
+     ],
+     "reference": [],
+     "figure": [
+       {"link": "./img/science/trough.jpg","caption": "Fluorescence microscope imaging a lipid monolayer at the air-water interface."},
+       {"link": "./img/science/model.jpg","caption": "(A) Schematic sketch of the monolayer in the boundary region. A boundary lying parallel to the y axis separates two large domains denoted by 1 and 2. (B) Cross-section parallel to the xz plane. The monolayer conformation is parametrized by the angle q(s). It makes with the xy reference plane at curvilinear distance from the boundary."}
+     ]
+   },
+   {
+     "id": "myelin",
+     "title": "Myelin Formation",
+     "heading": "Investigation of the Mechanism of Myelin Formation",
+     "people": [
+       {"name": "Andrew Molina", "link": "#andrew"}
+     ],
+     "body": [
+       "The myelin sheath is an insulating, compacted, multilamellar biological membrane that facilitates the rapid propagation of action potentials down the axons of neurons via saltatory conduction. It is critical for normal physiological function, as demyelinating diseases such as multiple sclerosis lead to severe physical and mental impairment and even death.",
+       "Recently, University of Chicago neurobiologist Sara Szuchet has found compelling in vivo evidence that the long-established mechanism for the formation of central nervous system (CNS) myelin, in which a wrapped oligodendrocyte membrane becomes the final myelin, has serious flaws. To address these flaws in the current model, Szuchet has proposed a new model involving (1) the preformation of myelin membrane tubules that are trafficked to the neuronal axon, where they (2) undergo a transition from tubular to lamellar form and thus form the final compact myelin sheath (Szuchet et al. J. Struct. Biol. 2015, 190, 56-72.).",
+       "To investigate this mechanism, we designed in vitro experiments to probe the biophysical interactions of myelin lipids as they (1) self-assemble into tubules and (2) transition into lamellar form. Specifically, using TEM imaging, we have observed the self-assembly of tubules consisting of 100% galactosylceramide (GalCer), a fundamental glycolipid of CNS myelin. We have similarly investigated how 2-component systems of GalCer/Cholesterol and GalCer/Plasmalogen transition from stable tubule structures to larger aggregates of lower curvature upon decreasing GalCer concentration. The stable tubules of these in vitro systems observed at higher GalCer concentrations align with the in silico results of coarse-grained simulations (Voth Group, University of Chicago) and the tubules observed in vivo in ovine oligodendrocytes by Szuchet (Szuchet et al., 2015), suggesting that these structures of major myelin lipids can be stable precursors for myelination. Using fluid-cell AFM, we have begun to investigate how these self-assembled tubules interact with supported lipid bilayers in HEPES buffer solution (pH 7.4) with hopes of observing a fusion event between the structures that would be experimental evidence of the proposed Szuchet model for the biological mechanism of myelin formation."
+     ],
+     "reference": [],
+     "figure": [
+       {"link": "./img/science/myelin-1.png","caption": "TEM image (120 kV) of 1:1 Plasmalogen:GalCer tubules and smaller aggregates of higher membrane curvature."},
+       {"link": "./img/science/myelin-2.png","caption": "AFM height trace plot of 40:60 Plasmalogen:GalCer tubules stably resting on mica substrate with DMPC bilayer patches."}
+     ]
+   },
+   {
+     "id": "amp",
+     "title": "Antimicrobial Peptides",
+     "heading": "Mechanism of membrane disruption by antimicrobial peptides (AMPs)",
+     "people": [
+       {"name": "Michael Henderson", "link": "#michael"},
+       {"name": "Nishanth Iyengar", "link": "#nishanth"}
+     ],
+     "body": [
+       "Antimicrobial peptides (AMPs) are a class of small host defense peptides that induce selective membrane lytic activity against microbial pathogens through the formation of pores.",
+       "Using lipid bilayer patches supported on a mica substrate, AMP interactions with membranes can be probed using AFM.",
+       "Protegrin-1 (PG-1) is a cationic β-sheet 18-amino acid peptide isolated from porcine leukocytes that exhibits potency against several gram-negative and gram-positive bacteria, fungi and viruses.",
+       "In the absence of peptide (A) the bilayer patches are compact in shape and display smooth boundaries maintained by a high interfacial line tension. As the bulk peptide concentration is increased, the smooth contours of the patches are rendered rough as peptide adsorption at the membrane edge reduces the interfacial tension (B). Eventually the lamellar interior of the patch is compromised as pores (C) and worm-like micelles (D) span the entire depth of the bilayer.",
+       "Other AMPs with different molecular characteristics display the same type of structural transformations as seen for PG-1.",
+       "Cholesterol is a major component in mammalian cell membranes but nonexistent in bacterial cell membranes. AMPs may be able to sense specific membrane compositional differences allowing them to target pathogens while leaving host cells intact."
+     ],
+     "reference": [
+       "Gidalevitz, D. et al. PNAS 100, 6302–6307 (2003).",
+       "Lam, K. L. H. et al. BBA - Biomembranes 1818, 194–204 (2012).",
+       "Henderson, J. M. & Lee, K. Y. C. Curr. Opin. Solid State and Mater. Sci. 17, 175–192 (2013)."
+     ],
+     "figure": [
+       {"link": "./img/science/ab.jpg","caption": "Fluorescence microscope imaging a lipid monolayer at the air-water interface."},
+       {"link": "./img/science/amp.gif","caption": "A video of PG-1 mediated membrane disruption."}
+     ]
+   }
+ ]
+}

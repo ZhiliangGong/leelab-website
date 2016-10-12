@@ -1,0 +1,169 @@
+{"people":
+  [
+    {
+      "id": "kayee",
+      "name": "Ka Yee C. Lee",
+      "title": "Professor",
+      "icon": "fa fa-file-pdf-o",
+      "image": "./img/people/kayee.jpg",
+      "link": "./file/kayee-cv.pdf",
+      "email": "kayeelee@uchicago.edu",
+      "office": "GCIS 139B",
+      "phone": "773-702-7068",
+      "acholades": "Stanford University, Postdoctoral Fellow, 1992-1994. National Research Service Award Postdoctoral Fellow, 1994-95. University of California, Santa Barbara, University of California President's Postdoctoral Fellow, 1995-97. National Research Service Award Postdoctoral Fellow, 1997-98.",
+      "degrees": ["PhD, Harvard University 1992","MS, Harvard University 1987","ScB, Brown University 1986"],
+      "affiliations": [
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"},
+        {"name": "James Franck Institute","link": "http://jfi.uchicago.edu/"},
+        {"name": "Materials Research Science and Engineering Center","link": "https://mrsec.uchicago.edu/"},
+        {"name": "Institute for Biophysical Dynamics","link": "http://ibd.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "peter",
+      "name": "Peter Chung",
+      "title": "Postdoctoral Fellow",
+      "icon": "ai ai-google-scholar-square",
+      "image": "./img/people/peter.jpg",
+      "link": "https://scholar.google.com/citations?user=zNkIM8QAAAAJ",
+      "email": "peterjchung@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "University of Chicago, Kadanoff-Rice Postdoctoral Fellow, 2016-",
+      "degrees": ["Phd in Physics, UC Santa Barbara 2016","MS in Physics, UC Santa Barbara 2011","BA in Physics, UC Berkeley 2007","BS in Materials Science and Engineering, UC Berkeley 2007"],
+      "affiliations": [
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"},
+        {"name": "James Franck Institute","link": "http://jfi.uchicago.edu/"},
+        {"name": "Materials Research Science and Engineering Center","link": "https://mrsec.uchicago.edu/"},
+        {"name": "Institute for Biophysical Dynamics","link": "http://ibd.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "zhiliang",
+      "name": "Zhiliang Gong",
+      "title": "Graduate Student",
+      "icon": "fa fa-linkedin-square",
+      "image": "./img/people/zhiliang.jpg",
+      "link": "https://www.linkedin.com/in/zhilianggong",
+      "email": "zlgong@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "University of Chicago, Windt Memorial Fellowship, 2015",
+      "degrees": ["MS, University of Chicago, 2012","BS, U of Science and Technology of China 2011"],
+      "affiliations": [
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"},
+        {"name": "James Franck Institute","link": "http://jfi.uchicago.edu/"},
+        {"name": "Materials Research Science and Engineering Center","link": "https://mrsec.uchicago.edu/"},
+        {"name": "Institute for Biophysical Dynamics","link": "http://ibd.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "dan",
+      "name": "Daniel Kerr",
+      "title": "Graduate Student",
+      "icon": "",
+      "image": "./img/people/dan.jpg",
+      "link": "",
+      "email": "danielhskerr@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "",
+      "degrees": ["MS in Biophysics, University of Chicago 2015","BS in Physics, UC Santa Barbara 2011"],
+      "affiliations": [
+        {"name": "Program in Biophysics","link": "http://biophysics.uchicago.edu/"},
+        {"name": "James Franck Institute","link": "http://jfi.uchicago.edu/"},
+        {"name": "Materials Research Science and Engineering Center","link": "https://mrsec.uchicago.edu/"},
+        {"name": "Institute for Biophysical Dynamics","link": "http://ibd.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "luke",
+      "name": "Luke Hwang",
+      "title": "Graduate Student",
+      "icon": "fa fa-linkedin-square",
+      "image": "./img/people/luke.jpg",
+      "link": "https://www.linkedin.com/in/hyeondo-hwang-bb64112a",
+      "email": "hhwang04@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "McCormick Fellowship 2013-2015",
+      "degrees": ["MS in Chemistry, University of Chicago 2014","BS in Chemistry, City College of New York 2013"],
+      "affiliations": [
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"},
+        {"name": "James Franck Institute","link": "http://jfi.uchicago.edu/"},
+        {"name": "Materials Research Science and Engineering Center","link": "https://mrsec.uchicago.edu/"},
+        {"name": "Institute for Biophysical Dynamics","link": "http://ibd.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "ben",
+      "name": "Benjamin Slaw",
+      "title": "Graduate Student",
+      "icon": "fa fa-linkedin-square",
+      "image": "./img/people/ben.jpg",
+      "link": "https://www.linkedin.com/in/benjamin-slaw-6a8b90100",
+      "email": "beslaw@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "",
+      "degrees": ["MS in Chemistry, University of Chicago 2016","BA in Chemistry, Vassar College 2015"],
+      "affiliations": [
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"},
+        {"name": "James Franck Institute","link": "http://jfi.uchicago.edu/"},
+        {"name": "Materials Research Science and Engineering Center","link": "https://mrsec.uchicago.edu/"},
+        {"name": "Institute for Biophysical Dynamics","link": "http://ibd.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "andrew",
+      "name": "Andrew Molina",
+      "title": "Undergraduate Student",
+      "icon": "fa fa-linkedin-square",
+      "image": "./img/people/andrew.jpg",
+      "link": "https://www.linkedin.com/in/andrew-molina-5a1467b6",
+      "email": "avmolina@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "Beckman Scholar, 2016-17",
+      "degrees": ["BS in Chemistry, University of Chicago, Expected 2018","BS in Biochemistry, University of Chicago, Expected 2018"],
+      "affiliations": [
+        {"name": "The College, University of Chicago","link": "https://college.uchicago.edu/"},
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "alessandra",
+      "name": "alessandra Leong",
+      "title": "Undergraduate Student",
+      "icon": "",
+      "image": "./img/people/alessandra.jpg",
+      "link": "",
+      "email": "afleong@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "James R. Norris, Jr. Grant for Undergraduate Summer Research in Chemistry, 2016",
+      "degrees": ["BS in Chemistry, University of Chicago, Expected 2019","BS in Biochemistry, University of Chicago, Expected 2019"],
+      "affiliations": [
+        {"name": "The College, University of Chicago","link": "https://college.uchicago.edu/"},
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"}
+      ]
+    },
+    {
+      "id": "tiffany",
+      "name": "Tiffany Suwatthee",
+      "title": "Undergraduate Student",
+      "icon": "",
+      "image": "./img/people/tiffany.jpg",
+      "link": "",
+      "email": "tiffany407501@uchicago.edu",
+      "office": "GCIS ESB31",
+      "phone": "773-834-2793",
+      "acholades": "",
+      "degrees": ["BS in Chemistry, University of Chicago, Expected 2020"],
+      "affiliations": [
+        {"name": "The College, University of Chicago","link": "https://college.uchicago.edu/"},
+        {"name": "Department of Chemistry","link": "http://chemistry.uchicago.edu/"}
+      ]
+    }
+  ]
+}
