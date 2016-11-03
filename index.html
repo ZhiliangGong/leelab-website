@@ -15,6 +15,7 @@
   <script src="./js/jquery.easing.min.js"></script>
   <script src="./js/bootstrap.min.js"></script>
   <script src="./js/angular.min.js"></script>
+  <script src="./js/angular-vertilize.js"></script>
   <script src="app.js"></script>
   <script src="./js/lee.js"></script>
   <script src="./js/jquery.matchHeight.js"></script>
@@ -78,8 +79,8 @@
     <h4 class="lee-section-title">CURRENT MEMBERS</h4>
   </div>
   <div class="container">
-    <div class="row">
-      <div ng-repeat="person in people" id={{person.id}} class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+    <div vertilize-container class="row">
+      <div vertilize ng-repeat="person in people" id={{person.id}} class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
         <div class="thumbnail lee-portrait" data-mh="portrait-group">
           <img src={{person.image}} class="img-rounded" alt={{person.name}}>
           <div class="caption">
@@ -112,21 +113,132 @@
 
 <!-- Research section -->
 <section id="research" class="white-section" ng-controller="researchSection">
-  <div ng-include="'./html/research.html'"></div>
+  <div class="container text-center">
+    <h4 class="lee-section-title">RESEARCH</h4>
+  </div>
+  <div class="container">
+    <div class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#research-pill-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a id="fields" class="navbar-brand sub-nav">Research Fields</a>
+      </div><!--nav header-->
+      <div class="collapse navbar-collapse" id="research-pill-collapse">
+        <ul class="nav nav-pills nav-justified head-menu">
+          <li ng-repeat="piece in research" ng-class="{active:$first}"><a data-toggle="pill" href="#{{piece.id}}">{{piece.title}}</a></li>
+        </ul>
+      </div><!--nav fields-->
+    </div><!--nav pills-->
+    <div class="tab-content">
+      <div ng-repeat="piece in research" id="{{piece.id}}" class="tab-pane fade in" ng-class="{active:$first}">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 science-col">
+          <div ng-repeat="figure in piece.figure" class="thumbnail science-thumbnail">
+            <img src="{{figure.link}}" class="img-rounded science-img" alt="{{figure.caption}}" />
+            <p>
+              {{figure.caption}}
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-9 science-col">
+          <h4>{{piece.heading}}</h4>
+          <p>
+            <span ng-repeat="person in piece.people" class="lee-author">{{person.name}}{{user.Username}}{{$last ? '' :', '}} </span>
+          </p>
+          <p ng-repeat="paragraph in piece.body">
+            {{paragraph}}
+          </p>
+          <p ng-if="piece.reference">
+            <b>Selected bibliography</b>
+            <ul>
+              <li ng-repeat="paper in piece.reference">{{paper}}</li>
+            </ul>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 </section>
 
 <!-- Publication section-->
-<section id="publication" class="white-section">
-  <div ng-include="'./html/publication.html'"></div>
+<section id="publication" class="white-section" ng-controller="publicationSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">PUBLICATION</h4>
+  </div>
+  <div class="container">
+    <div class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#publication-pill-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a id="pubs" class="navbar-brand sub-nav">Publication Year</a>
+      </div>
+      <div class="collapse navbar-collapse" id="publication-pill-collapse">
+        <ul class="nav nav-pills nav-justified">
+          <li ng-repeat="cohort in papers | reverse" ng-class="{active:$first}"><a data-toggle="pill" href="#{{cohort.id}}">{{cohort.id}}</a></li>
+        </ul>
+      </div>
+    </div><!--nav pills-->
+    <div class="tab-content">
+      <div ng-repeat="cohort in papers | reverse" id="{{cohort.id}}" class="tab-pane fade in pub-text" ng-class="{active:$first}">
+        <div class="list-group">
+          <a ng-repeat="paper in cohort.papers | reverse" class="list-group-item">
+            {{paper.title}}
+          </a>
+        </div>
+      </div>
+  </div>
 </section>
 
 <!-- Alumni section-->
-<section id="alumni" class="grey-section">
-  <div ng-include="'./html/alumni.html'"></div>
+<section id="alumni" class="grey-section" ng-controller="alumniSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">ALUMNI</h4>
+  </div>
+  <div class="container">
+    <div vertilize-container class="row">
+      <div ng-repeat="person in alumni" id="{{person.id}}" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+        <div vertilize class="thumbnail lee-portrait" data-mh="portrait-group">
+          <img src="{{person.image}}" class="img-rounded" alt="{{person.name}}">
+          <div class="caption">
+            <h4>{{person.name}}</h4>
+            <p class="lee-text-gray">{{person.title}}</p>
+            <div class="list-group">
+              <a class="list-group-item">
+                <i class='fa fa-envelope-o'></i> {{person.email}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-user-secret'></i> {{person.position}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-university'></i> {{person.institution}}
+              </a>
+            </div>
+            <p>
+              <span ng-repeat="degree in person.degrees">{{degree}}<br /></span>
+            </p>
+            <p>
+              <span ng-repeat="item in person.accolades">{{item}}<br /></span>
+            </p>
+            <p ng-repeat="title in person.thesis">
+              <b>Thesis: </b>{{title}}
+            </p>
+          </div>
+        </div>
+      </div><!--each repeating piece-->
+    </div><!--the row-->
+  </div>
 </section>
 
 <!-- Footer -->
 <div ng-include="'./html/footer.html'"></div>
 
+<script src="./js/jquery.matchHeight.js"></script>
 </body>
 </html>

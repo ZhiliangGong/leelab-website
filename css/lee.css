@@ -284,3 +284,7 @@ h1,h2,h3,h4,h5,h6,.lee-slim,.lee-wide{font-family:"Segoe UI",Arial,sans-serif}
   -o-transition: background .75s ease;
   transition: background .75s ease;
 }
+
+.lee-author{
+  color: #337ab7;
+}
