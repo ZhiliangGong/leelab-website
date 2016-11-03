@@ -11,14 +11,12 @@
 
   <link rel="icon" type="image/png" sizes="16x16" href="./img/favicons/favicon-16x16.png"></link>
   <link rel="stylesheet" href="./css/lee.css"></link>
-  <script src="./js/jquery.js"></script>
+  <script src="./js/jquery.min.js"></script>
   <script src="./js/jquery.easing.min.js"></script>
   <script src="./js/bootstrap.min.js"></script>
   <script src="./js/angular.min.js"></script>
-  <script src="./js/angular-vertilize.js"></script>
   <script src="app.js"></script>
   <script src="./js/lee.js"></script>
-  <script src="./js/jquery.matchHeight.js"></script>
   <script src="./js/google-analytics.js"></script>
 </head>
 
@@ -204,7 +202,7 @@
   <div class="container">
     <div class="row">
       <div ng-repeat="person in alumni" id="{{person.id}}" class="col-xs-12 col-sm-6 col-md-4 col-lg-4" style="height:700px">
-        <div class="thumbnail lee-portrait" data-mh="portrait-group">
+        <div class="thumbnail lee-portrait">
           <img src="{{person.image}}" class="img-rounded" alt="{{person.name}}">
           <div class="caption">
             <h4>{{person.name}}</h4>
@@ -239,6 +237,5 @@
 <!-- Footer -->
 <div ng-include="'./html/footer.html'"></div>
 
-<script src="./js/jquery.matchHeight.js"></script>
 </body>
 </html>
