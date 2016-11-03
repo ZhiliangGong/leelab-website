@@ -79,9 +79,9 @@
     <h4 class="lee-section-title">CURRENT MEMBERS</h4>
   </div>
   <div class="container">
-    <div vertilize-container class="row">
-      <div vertilize ng-repeat="person in people" id={{person.id}} class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-        <div class="thumbnail lee-portrait" data-mh="portrait-group">
+    <div class="row">
+      <div ng-repeat="person in people" id={{person.id}} class="col-xs-12 col-sm-6 col-md-4 col-lg-4" style="height:780px">
+        <div class="thumbnail lee-portrait">
           <img src={{person.image}} class="img-rounded" alt={{person.name}}>
           <div class="caption">
             <h4>{{person.name}} <a href={{person.link}} target="_blank"><i class={{person.icon}}></i></a></h4>
@@ -188,9 +188,9 @@
     <div class="tab-content">
       <div ng-repeat="cohort in papers | reverse" id="{{cohort.id}}" class="tab-pane fade in pub-text" ng-class="{active:$first}">
         <div class="list-group">
-          <a ng-repeat="paper in cohort.papers | reverse" class="list-group-item">
-            {{paper.title}}
-          </a>
+          <li ng-repeat="paper in cohort.papers | reverse" class="list-group-item">
+            {{paper.title}} <a ng-if="paper.id" href="{{'./papers/'+paper.id+'.pdf'}}">(pdf)</a>
+          </li>
         </div>
       </div>
   </div>
@@ -202,9 +202,9 @@
     <h4 class="lee-section-title">ALUMNI</h4>
   </div>
   <div class="container">
-    <div vertilize-container class="row">
-      <div ng-repeat="person in alumni" id="{{person.id}}" class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
-        <div vertilize class="thumbnail lee-portrait" data-mh="portrait-group">
+    <div class="row">
+      <div ng-repeat="person in alumni" id="{{person.id}}" class="col-xs-12 col-sm-6 col-md-4 col-lg-4" style="height:700px">
+        <div class="thumbnail lee-portrait" data-mh="portrait-group">
           <img src="{{person.image}}" class="img-rounded" alt="{{person.name}}">
           <div class="caption">
             <h4>{{person.name}}</h4>
@@ -226,9 +226,9 @@
             <p>
               <span ng-repeat="item in person.accolades">{{item}}<br /></span>
             </p>
-            <p ng-repeat="title in person.thesis">
-              <b>Thesis: </b>{{title}}
-            </p>
+            <div ng-if="person.thesis">
+              <b>Thesis: </b>{{person.thesis}}
+            </div>
           </div>
         </div>
       </div><!--each repeating piece-->

@@ -12,7 +12,7 @@
       "institution": "University of Chicago Laboratory Schools",
       "accolades": [""],
       "degrees": [""],
-      "thesis": [""]
+      "thesis": ""
     },
     {
       "id": "michael",
@@ -26,7 +26,7 @@
       "institution": "Institut Curie, Paris",
       "accolades": [""],
       "degrees": ["PhD, Harvard University 1992","MS, Harvard University 1987","ScB, Brown University 1986"],
-      "thesis": ["Antimicrobial Peptides' Selectivity and Line Activity Governed by Membrane Properties"]
+      "thesis": "Antimicrobial Peptides' Selectivity and Line Activity Governed by Membrane Properties"
     },
     {
      "id": "nishanth",
@@ -40,7 +40,7 @@
       "institution": "NYU School of Medicine",
       "accolades": ["James Franck Institute (JFI) Scholar, summer 2012", "Metcalf Scholar, summer 2013","Institute for Biophysical Dynamics (IBD) Scholar, summer 2014"],
       "degrees": ["BS with honors in Biological Chemistry, University of Chicago, 2015"],
-      "thesis": ["A thermodynamic study of the effects of cholesterol on the binding of antimicrobial peptide protegrin-1 to phosphatidylcholine model membranes"]
+      "thesis": "A thermodynamic study of the effects of cholesterol on the binding of antimicrobial peptide protegrin-1 to phosphatidylcholine model membranes"
     },
     {
      "id": "kathleen",
@@ -54,7 +54,7 @@
       "institution": "Gettysburg College",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago","MS, University of Chicago","BS, UC Irvine"],
-      "thesis": ["Cholesterol effects on the lateral ordering, structure and activity of phosphatidylethanolamine monolayers"]
+      "thesis": "Cholesterol effects on the lateral ordering, structure and activity of phosphatidylethanolamine monolayers"
     },
     {
      "id": "charles",
@@ -68,7 +68,7 @@
       "institution": "NanoTemper Technologies Inc.",
       "accolades": [""],
       "degrees": ["MS, University of Chicago","BS, University of Southern California"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "greg",
@@ -82,7 +82,7 @@
       "institution": "Yale University",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago","BS, University of Oregon","BA, Wake Forest University"],
-      "thesis": ["Immune Recognition of Membrane Phosphatidylserine by the Tim Proteins: A Multidisciplinary Study."]
+      "thesis": "Immune Recognition of Membrane Phosphatidylserine by the Tim Proteins: A Multidisciplinary Study."
     },
     {
      "id": "jiayu",
@@ -96,7 +96,7 @@
       "institution": "Ecolab, Naperville, IL",
       "accolades": [""],
       "degrees": ["PhD, University of Massachusetts, Amherst","MS, Jilin University, China","BA, Jilin University, China"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "niels",
@@ -110,7 +110,7 @@
       "institution": "Massachusetts Institute of Technology",
       "accolades": [""],
       "degrees": ["PhD,  Biomolecular Science & Engineering, UC Santa Barbara 2008","MSc, Cell Biology, University of Copenhagen 2001","BSc, Hon. Molecular Biology, University of Canterbury, 2000","BSc, Biology, University of Copenhagen, 1998"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "jaemin",
@@ -124,7 +124,7 @@
       "institution": "",
       "accolades": [""],
       "degrees": ["BS, University of Chicago"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "ginevra",
@@ -138,7 +138,7 @@
       "institution": "Science Learning Center, University of Illinois Chicago",
       "accolades": [""],
       "degrees": ["PhD, Chemistry, Tufts University","MS, Brandeis University","BS, Warren Wilson College"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "luka",
@@ -152,7 +152,7 @@
       "institution": "University of Pittsburgh Medical Center",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2009","MD, University of Chicago 2012","BS, Duke University"],
-      "thesis": ["Mechanical and thermodynamic focusing at membrane interfaces"]
+      "thesis": "Mechanical and thermodynamic focusing at membrane interfaces"
     },
     {
      "id": "stephen",
@@ -166,7 +166,7 @@
       "institution": "FactSet Research Systems",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2009","BS, Penn State"],
-      "thesis": ["The Interaction of Amyloid Beta 40 Peptide with Anionic Phospholipid Langmuir Monolayers"]
+      "thesis": "The Interaction of Amyloid Beta 40 Peptide with Anionic Phospholipid Langmuir Monolayers"
     },
     {
      "id": "shelli",
@@ -180,7 +180,7 @@
       "institution": "Gettysburg College",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2008","BS, Haverford College"],
-      "thesis": ["Structure, Ordering, and Activity of Lipid/Polymer Systems"]
+      "thesis": "Structure, Ordering, and Activity of Lipid/Polymer Systems"
     },
     {
      "id": "eva",
@@ -194,7 +194,7 @@
       "institution": "University of New Mexico",
       "accolades": [""],
       "degrees": ["PhD, Chemical Engineering, University of Colorado 2004","MS, Chemical Engineering, University of Colorado 2001","BS, Chemical Engineering with Biotechnology Emphasis, UC Berkeley 1999","BS, Chemistry, UC Berkeley 1999"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "guohui",
@@ -203,12 +203,12 @@
       "icon": "",
       "image": "./img/people/guohui.png",
       "link": "",
-      "email": "",
-      "position": "",
-      "institution": "",
+      "email": "guohui.wu@unilever.com",
+      "position": "Senior Scientist",
+      "institution": "Unilever",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2003","BS, Fudan University, China"],
-      "thesis": ["Solidification in Supported Lipid Bilayers"]
+      "thesis": "Interaction Between Poloxamers and Cell Membranes"
     },
     {
      "id": "maria",
@@ -222,7 +222,7 @@
       "institution": "",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2007","BS, Universite Paris 7, France"],
-      "thesis": ["Evidence for Condensed Complexes of Cholesterol in Lipid Membranes"]
+      "thesis": "Evidence for Condensed Complexes of Cholesterol in Lipid Membranes"
     },
     {
      "id": "adrian",
@@ -231,12 +231,12 @@
       "icon": "",
       "image": "./img/people/adrian.png",
       "link": "",
-      "email": "",
-      "position": "Scientist",
-      "institution": "Friesland Foods, Netherlands",
+      "email": "a.s.muresan@gmail.com",
+      "position": "Creative in New Product Development",
+      "institution": "International Flavors and Frangrances",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2003","BS, University of Bucharest, Romania"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "yuji",
@@ -250,7 +250,7 @@
       "institution": "University of Illinois, Urbana-Champaign",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2006","BS, Wheaton College"],
-      "thesis": ["Membrane Selectivity and Disordering Mechanism of Antimicrobial Peptide Protegrin-1"]
+      "thesis": "Membrane Selectivity and Disordering Mechanism of Antimicrobial Peptide Protegrin-1"
     },
     {
      "id": "laura",
@@ -259,12 +259,12 @@
       "icon": "",
       "image": "./img/people/laura.png",
       "link": "",
-      "email": "",
+      "email": "lmhawk@umn.edu",
       "position": "",
       "institution": "",
       "accolades": [""],
-      "degrees": ["BS, University of Wisconsin, Madison"],
-      "thesis": [""]
+      "degrees": ["BS, Comprehensive Honors, University of Wisconsin, Madison 2015","MS in Chemistry, University of Chicago 2007","PhD in Chemistry, University of Chicago, 2013"],
+      "thesis": "Polymorphism in Variants of Amyloid-b (Advisor: Stephen C. Meredith)"
     },
     {
      "id": "ajaykumar",
@@ -273,12 +273,12 @@
       "icon": "",
       "image": "./img/people/ajay.png",
       "link": "",
-      "email": "",
+      "email": "agopal@card.com",
       "position": "VP of Growth and Data Science",
       "institution": "University of Illinois, Urbana-Champaign",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2004","BS, IIT Bombay, India"],
-      "thesis": ["The Collapse of Phospholipid Langmuir Monolayers: Implications for Biological Surfactant"]
+      "thesis": "The Collapse of Phospholipid Langmuir Monolayers: Implications for Biological Surfactant"
     },
     {
      "id": "canay",
@@ -292,7 +292,7 @@
       "institution": "Intel",
       "accolades": [""],
       "degrees": ["PhD, University of Chicago 2004","BS, IIT Bombay, India"],
-      "thesis": ["Templating Effect of Lipid Membranes on Alzheimer's Amyloid Beta Peptide by X-Ray Scattering"]
+      "thesis": "Templating Effect of Lipid Membranes on Alzheimer's Amyloid Beta Peptide by X-Ray Scattering"
     },
     {
      "id": "toan",
@@ -306,7 +306,7 @@
       "institution": "Georgia Institute of Technology",
       "accolades": [""],
       "degrees": ["PhD, University of Minnesota 2002"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "haim",
@@ -320,7 +320,7 @@
       "institution": "Tel Aviv University, Israel",
       "accolades": [""],
       "degrees": ["PhD, Physics, Tel Aviv University 2000","MSc, Physics, Tel Aviv University 1996","BSc, Physics, Tel Aviv University 1994"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "david",
@@ -334,7 +334,7 @@
       "institution": "Illinois Institute of Technology",
       "accolades": [""],
       "degrees": ["PhD, Weizmann Institute of Science","BS Urals Technical University"],
-      "thesis": [""]
+      "thesis": ""
     },
     {
      "id": "josh",
@@ -347,8 +347,8 @@
       "position": "Community Manager",
       "institution": "Agilent Technologies",
       "accolades": [""],
-      "degrees": ["PhD, Biophysics, University of Wisconsin, Madison 1998","BS California Institute of Technology"],
-      "thesis": [""]
+      "degrees": ["PhD in Chemistry, UW Madison 1998","BS in Chemistry, Caltech 1989"],
+      "thesis": ""
     }
   ]
 }
