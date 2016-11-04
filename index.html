@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Lee Lab, University of Chicago</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Ka Yee C. Lee group at the Univerisity of Chicago, with a focus on lipid interactions with protein, lipid, polymer, among other physiological molecules or drugs.">
+<<<<<<< HEAD
+  <meta name="keywords" content="physical chemistry, lipid membrane, alpha synuclein, tim proteins, mfg-e8, Ka Yee C. Lee, Ka Yee Lee, Kayee Lee, Peter Chung, Zhiliang Gong, Daniel Kerr, Dan Kerr, Peter J Chung, Hyeondo Luke Hwang, Luke Hwang, Ben Slaw, Benjamin Slaw, Michael Henderson, Tiffany Suwatthee, Andrew Molina, Alessandra Leong, Kathleen Cao, Greg Tietjen, Charles Heffern" />
+  <meta name="format-detection" content="telephone=no" />
+=======
+  <meta name="keywords" content="physical chemistry, lipid membrane, alpha synuclein, tim proteins, mfg-e8, Ka Yee C. Lee, Ka Yee Lee, Kayee Lee, Peter Chung, Zhiliang Gong, Daniel Kerr, Dan Kerr, Peter J Chung, Hyeondo Luke Hwang, Luke Hwang, Ben Slaw, Benjamin Slaw, James Michael Henderson, J Michael Henderson, Michael Henderson, Tiffany Suwatthee, Andrew Molina, Alessandra Leong, Kathleen Cao, Greg Tietjen, Charles Heffern">
+  <meta name="format-detection" content="telephone=no">
+>>>>>>> 3dacb0a3ce4a392b5fcfa9f3ece311ec2bcad060
+
+  <link rel="icon" type="image/png" sizes="16x16" href="./img/favicons/favicon-16x16.png"></link>
+  <link rel="stylesheet" href="./css/lee.css"></link>
+  <script src="./js/jquery.min.js"></script>
+  <script src="./js/jquery.easing.min.js"></script>
+  <script src="./js/bootstrap.min.js"></script>
+  <script src="./js/angular.min.js"></script>
+  <script src="app.js"></script>
+  <script src="./js/lee.js"></script>
+  <script src="./js/google-analytics.js"></script>
+</head>
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top" ng-app="app">
+
+<nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand page-scroll lee-hover-maroon" href="#page-top">LEE LAB</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <ul class="nav navbar-nav">
+                <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                <li class="hidden"><a class="page-scroll" href="#page-top"></a></li>
+                <li><a class="page-scroll lee-hover-maroon" href="#news">NEWS</a></li>
+                <li><a class="page-scroll lee-hover-maroon" href="#people">PEOPLE</a></li>
+                <li><a class="page-scroll lee-hover-maroon" href="#research">RESEARCH</a></li>
+                <li><a class="page-scroll lee-hover-maroon" href="#publication">PUBLICATION</a></li>
+                <li><a class="page-scroll lee-hover-maroon" href="#alumni">ALUMNI</a></li>
+                <li><a class="page-scroll lee-hover-maroon" href="#contact">CONTACT</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- First Parallax Image with Logo Text -->
+<div class="bgimg">
+  <div class="lee-display-middle" style="white-space:nowrap;">
+    <span class="membrane-people-box">MEMBRANE PEOPLE</span>
+  </div>
+</div>
+
+<!--news section-->
+<section id="news" class="white-section" ng-controller="newsSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">NEWS</h4>
+  </div>
+  <div class="container pub-text">
+    <div class="list-group">
+      <a class="list-group-item" ng-repeat="piece in news">
+        {{piece.message}} <span class="badge">{{piece.date}}</span>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- Current Members section -->
+<section id="people" class="white-section" ng-controller="peopleSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">CURRENT MEMBERS</h4>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div ng-repeat="person in people" id={{person.id}} class="col-xs-12 col-sm-6 col-md-4 col-lg-4" style="height:780px">
+        <div class="thumbnail lee-portrait">
+          <img src={{person.image}} class="img-rounded" alt={{person.name}}>
+          <div class="caption">
+            <h4>{{person.name}} <a href={{person.link}} target="_blank"><i class={{person.icon}}></i></a></h4>
+            <p class="lee-text-gray">{{person.title}}</p>
+            <div class="list-group">
+              <a class="list-group-item">
+                <i class='fa fa-envelope-o'></i> {{person.email}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-building-o'></i> {{person.office}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-phone'></i> {{person.phone}}
+              </a>
+            </div>
+            <p>{{person.acholades}}</p>
+            <p>
+              <span ng-repeat="degree in person.degrees">{{degree}}<br /></span>
+            </p>
+            <p>
+              <span ng-repeat="affiliation in person.affiliations"><a href={{affiliation.link}} target="_blank">{{affiliation.name}}</a><br /></span>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Research section -->
+<section id="research" class="white-section" ng-controller="researchSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">RESEARCH</h4>
+  </div>
+  <div class="container">
+    <div class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#research-pill-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a id="fields" class="navbar-brand sub-nav">Research Fields</a>
+      </div><!--nav header-->
+      <div class="collapse navbar-collapse" id="research-pill-collapse">
+        <ul class="nav nav-pills nav-justified head-menu">
+          <li ng-repeat="piece in research" ng-class="{active:$first}"><a data-toggle="pill" href="#{{piece.id}}">{{piece.title}}</a></li>
+        </ul>
+      </div><!--nav fields-->
+    </div><!--nav pills-->
+    <div class="tab-content">
+      <div ng-repeat="piece in research" id="{{piece.id}}" class="tab-pane fade in" ng-class="{active:$first}">
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 science-col">
+          <div ng-repeat="figure in piece.figure" class="thumbnail science-thumbnail">
+            <img src="{{figure.link}}" class="img-rounded science-img" alt="{{figure.caption}}" />
+            <p>
+              {{figure.caption}}
+            </p>
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-6 col-md-8 col-lg-9 science-col">
+          <h4>{{piece.heading}}</h4>
+          <p>
+            <span ng-repeat="person in piece.people" class="lee-author">{{person.name}}{{user.Username}}{{$last ? '' :', '}} </span>
+          </p>
+          <p ng-repeat="paragraph in piece.body">
+            {{paragraph}}
+          </p>
+          <p ng-if="piece.reference">
+            <b>Selected bibliography</b>
+            <ul>
+              <li ng-repeat="paper in piece.reference">{{paper}}</li>
+            </ul>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Publication section-->
+<section id="publication" class="white-section" ng-controller="publicationSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">PUBLICATION</h4>
+  </div>
+  <div class="container">
+    <div class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#publication-pill-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a id="pubs" class="navbar-brand sub-nav">Publication Year</a>
+      </div>
+      <div class="collapse navbar-collapse" id="publication-pill-collapse">
+        <ul class="nav nav-pills nav-justified">
+          <li ng-repeat="cohort in papers | reverse" ng-class="{active:$first}"><a data-toggle="pill" href="#{{cohort.id}}">{{cohort.id}}</a></li>
+        </ul>
+      </div>
+    </div><!--nav pills-->
+    <div class="tab-content">
+      <div ng-repeat="cohort in papers | reverse" id="{{cohort.id}}" class="tab-pane fade in pub-text" ng-class="{active:$first}">
+        <div class="list-group">
+          <li ng-repeat="paper in cohort.papers | reverse" class="list-group-item">
+            {{paper.title}} <a ng-if="paper.id" href="{{'./papers/'+paper.id+'.pdf'}}">(pdf)</a>
+          </li>
+        </div>
+      </div>
+  </div>
+</section>
+
+<!-- Alumni section-->
+<section id="alumni" class="grey-section" ng-controller="alumniSection">
+  <div class="container text-center">
+    <h4 class="lee-section-title">ALUMNI</h4>
+  </div>
+  <div class="container">
+    <div class="row">
+      <div ng-repeat="person in alumni" id="{{person.id}}" class="col-xs-12 col-sm-6 col-md-4 col-lg-4" style="height:700px">
+        <div class="thumbnail lee-portrait">
+          <img src="{{person.image}}" class="img-rounded" alt="{{person.name}}">
+          <div class="caption">
+            <h4>{{person.name}}</h4>
+            <p class="lee-text-gray">{{person.title}}</p>
+            <div class="list-group">
+              <a class="list-group-item">
+                <i class='fa fa-envelope-o'></i> {{person.email}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-user-secret'></i> {{person.position}}
+              </a>
+              <a class="list-group-item">
+                <i class='fa fa-university'></i> {{person.institution}}
+              </a>
+            </div>
+            <p>
+              <span ng-repeat="degree in person.degrees">{{degree}}<br /></span>
+            </p>
+            <p>
+              <span ng-repeat="item in person.accolades">{{item}}<br /></span>
+            </p>
+            <div ng-if="person.thesis">
+              <b>Thesis: </b>{{person.thesis}}
+            </div>
+          </div>
+        </div>
+      </div><!--each repeating piece-->
+    </div><!--the row-->
+  </div>
+</section>
+
+<!-- Footer -->
+<div ng-include="'./html/footer.html'"></div>
+
+</body>
+</html>
