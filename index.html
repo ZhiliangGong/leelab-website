@@ -69,9 +69,10 @@
   </div>
   <div class="container pub-text">
     <div class="list-group">
-      <a class="list-group-item" ng-repeat="piece in news">
+      <li class="list-group-item" ng-repeat="piece in news">
         {{piece.message}} <span class="badge">{{piece.date}}</span>
-      </a>
+        (<a ng-if="piece.link" href="{{piece.link}}" style="font-style: italic">link</a>)
+      </li>
     </div>
   </div>
 </section>
