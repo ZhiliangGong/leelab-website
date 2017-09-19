@@ -1,5 +1,6 @@
 ## leelab.uchicago.edu
-Website of the Ka Yee Lee Group of the University of Chicago
+* Website of the Ka Yee Lee Group of the University of Chicago.
+* Visit: http://leelab.uchicago.edu
 
-## Data Files
-* These are json data files that are rendered into the webpages.
+## Contact
+* Lee Lab, University of Chicago
